@@ -1,6 +1,6 @@
 {
   "name": "capitalize-string-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "capitalize string is easy",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
