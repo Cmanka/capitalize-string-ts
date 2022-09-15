@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "capitalize string is easy",
   "main": "index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
