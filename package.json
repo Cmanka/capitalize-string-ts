@@ -2,7 +2,7 @@
   "name": "capitalize-string-ts",
   "version": "1.0.2",
   "description": "capitalize string is easy",
-  "main": "index.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
